@@ -3,5 +3,6 @@ streamlit
 agno
 openai
 python-dotenv
+youtube-transcript-api
 yfinance
 duckduckgo-search
