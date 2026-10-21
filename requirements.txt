@@ -1,0 +1,7 @@
+
+streamlit
+agno
+openai
+python-dotenv
+yfinance
+duckduckgo-search
